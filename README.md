@@ -1,7 +1,6 @@
 ## REACT NATIVE TEMPLATE MATERIAL BOTTOM TABS V5
 
-#### DEMO
-<img src="./assets/material-bottom-tabs-v5.gif" />
+<img src="./assets/material-bottom-tabs-v5.gif" width="30%" align="right" />
 
 #### STEP BY STEP
 + STEP 1
