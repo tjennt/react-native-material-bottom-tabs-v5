@@ -1,4 +1,8 @@
 ## REACT NATIVE TEMPLATE MATERIAL BOTTOM TABS V5
+
+#### DEMO
+<img src="https://github.com/tjennt/react-native-material-bottom-tabs-v5/assets/material-bottom-tabs-v5.gif" />
+
 #### STEP BY STEP
 + STEP 1
 ```
